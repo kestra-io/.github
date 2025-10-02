@@ -24,7 +24,7 @@
 
 <p align="center">
     <a href="https://go.kestra.io/video/product-overview" target="_blank">
-        <img src="https://kestra.io/startvideo.png" alt="Get started in 4 minutes with Kestra" width="300px" />
-    </a>
+        <img src="https://kestra.io/startvideo.png" alt="Get started in 3 minutes with Kestra" width="300px" />
 </p>
-<p align="center" style="color:grey;"><i>Click on the image to get started with Kestra in 4 minutes.</i></p>
+    </a>
+<p align="center" style="color:grey;"><i>Click on the image to get started with Kestra in 3 minutes.</i></p>
