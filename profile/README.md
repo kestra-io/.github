@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none">
-    Event-Driven Declarative Orchestrator
+    Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 </h1>
 
 <div align="center">
