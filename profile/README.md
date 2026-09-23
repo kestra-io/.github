@@ -54,4 +54,5 @@ Kestra unifies <b>scheduled</b> and <b>event-driven</b> automation behind a decl
 
 - ⭐ [Star the main repo](https://github.com/kestra-io/kestra) to follow releases
 - 💬 [Join our Slack community](https://kestra.io/slack)
+- 🗨️ [Join our Reddit community](https://www.reddit.com/r/kestra_io/)
 - 🤝 [Good first issues](https://go.kestra.io/contributing) for new contributors
